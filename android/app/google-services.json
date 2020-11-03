@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065713370218",
+    "firebase_url": "https://memes-d2a9f.firebaseio.com",
+    "project_id": "memes-d2a9f",
+    "storage_bucket": "memes-d2a9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065713370218:android:e9536e042c7d3b5db77613",
+        "android_client_info": {
+          "package_name": "com.example.memz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065713370218-v8uedfuna8f7th7nj2aaa11ejv8f0nuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDatq8q5HoTV00YvJ4g8sDA5oSav3UZC4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065713370218-v8uedfuna8f7th7nj2aaa11ejv8f0nuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
