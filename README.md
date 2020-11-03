@@ -1,6 +1,6 @@
 # memz
 
-A new Flutter project.
+An app which reads a database of memes fetched from "r/memes".
 
 ## Getting Started
 
