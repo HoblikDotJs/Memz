@@ -1,3 +1,3 @@
-# memz
+# Memz
 
-An app which reads a database of memes fetched from "r/memes".
+App for memes. You can save your favourites or share it to others.
